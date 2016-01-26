@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kevin-Fragment-Apk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
